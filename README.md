@@ -11,10 +11,10 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpachec0&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
 
- ## How to reach me 🔎
+ <h2 align="center">## Social medias 🔎</h2>
 
-<a href="https://www.instagram.com/joao.abxy/" target="_blank">
-    <img height=25 src="https://github.com/jpachec0/jpachec0/blob/main/logotipo-do-instagram.png" />
+<a align="center" href="https://www.instagram.com/joao.abxy/" target="_blank">
+    <img align="center" height=25 src="https://github.com/jpachec0/jpachec0/blob/main/logotipo-do-instagram.png" />
    </a>&nbsp;&nbsp;
    <br>
 
