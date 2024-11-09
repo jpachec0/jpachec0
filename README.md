@@ -8,7 +8,7 @@
 
 <div align="center">    
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jpachec0&&show_icons=true&theme=midnight-purple" alt="João Pedro M. Pacheco's Github Stats" alt="João Pedro M. Pacheco's Github Status" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpachec0&layout=compact&langs_count=7&theme=midnight-purple"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpachec0&layout=compact&langs_count=7&theme=transparent"/>
 </div>
 
  <h2 align="center"> Social medias 🔎</h2>
@@ -18,7 +18,5 @@
     <img align="center" height=25 src="https://github.com/jpachec0/jpachec0/blob/main/logotipo-do-instagram.png" />
   </div>
    </a>&nbsp;&nbsp;
-   <br>
 
 
-<p>Maybe my repositories will help you 😉</p>
