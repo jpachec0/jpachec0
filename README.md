@@ -5,6 +5,14 @@
   "If you want to discover the secrets of the Universe, think in terms of energy, frequency and vibration."
   
   </a>&nbsp;&nbsp; 
+<hr/>
+### Featured Projects
+<div align="center">  
+<a href="https://github.com/jpachec0/cadastro-aluno-api" target="_blank">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jpachec0&repo=cadastro-aluno-api&theme=midnight-purple" />
+  </div>
+<hr/>  
+  </a>&nbsp;&nbsp; 
 
 <div align="center">    
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jpachec0&&show_icons=true&theme=midnight-purple" alt="João Pedro M. Pacheco's Github Stats" alt="João Pedro M. Pacheco's Github Status" />
