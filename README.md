@@ -14,7 +14,7 @@
  ## How to reach me 🔎
 
 <a href="https://www.instagram.com/joao.abxy/" target="_blank">
-    <img src="https://github.com/jpachec0/jpachec0/blob/main/logotipo-do-instagram.png" />
+    <img height=10 src="https://github.com/jpachec0/jpachec0/blob/main/logotipo-do-instagram.png" />
    </a>&nbsp;&nbsp;
    <br>
 
