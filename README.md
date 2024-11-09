@@ -2,7 +2,7 @@
 
 [![GitHub jpachec0](https://img.shields.io/github/followers/jpachec0?label=follow&style=social)](https://github.com/jpachec0)
   
-  "Better than yesterday"
+  "If you want to discover the secrets of the Universe, think in terms of energy, frequency and vibration."
   
   </a>&nbsp;&nbsp; 
 
