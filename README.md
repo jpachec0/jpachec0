@@ -12,9 +12,11 @@
 </div>
 
  <h2 align="center">## Social medias 🔎</h2>
-
-<a align="center" href="https://www.instagram.com/joao.abxy/" target="_blank">
+ 
+<div align="center">  
+<a href="https://www.instagram.com/joao.abxy/" target="_blank">
     <img align="center" height=25 src="https://github.com/jpachec0/jpachec0/blob/main/logotipo-do-instagram.png" />
+  </div>
    </a>&nbsp;&nbsp;
    <br>
 
