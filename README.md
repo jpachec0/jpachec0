@@ -10,7 +10,7 @@
 <br/>
 <div align="center">  
 <a href="https://github.com/jpachec0/thothlabs" target="_blank">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jpachec0&repo=cadastro-aluno-api&theme=midnight-purple" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jpachec0&repo=thothlabs&theme=midnight-purple" />
   </div>
 <hr/>  
   </a>&nbsp;&nbsp; 
