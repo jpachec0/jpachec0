@@ -9,7 +9,7 @@
 <h2 align="center"> Featured Projects</h2>
 <br/>
 <div align="center">  
-<a href="https://github.com/jpachec0/cadastro-aluno-api" target="_blank">
+<a href="https://github.com/jpachec0/thothlabs" target="_blank">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jpachec0&repo=cadastro-aluno-api&theme=midnight-purple" />
   </div>
 <hr/>  
