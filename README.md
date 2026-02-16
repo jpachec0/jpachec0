@@ -30,7 +30,7 @@ A personal project focused on experimentation, learning and ideas.
 ## 🌐 Social Media
 
 📸 **Instagram**  
-👉 https://www.instagram.com/joao.abxy/
+👉 --------
 
 ---
 
