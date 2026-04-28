@@ -52,7 +52,7 @@
 ### ⚡ // TECH STACK
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,js,ts,java,spring,postgres,firebase,linux&theme=dark&perline=8" />
+  <img src="https://skillicons.dev/icons?i=react,js,ts,java,spring,postgres,firebase,linux&theme=dark&perline=4" />
   <br/>
   <p>
     <img src="https://img.shields.io/badge/Delphi-E20000?style=flat-square&logo=delphi&logoColor=white" alt="Delphi" />
