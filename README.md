@@ -100,7 +100,6 @@
 ### 📊 // GITHUB STATS
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jpachec0&show_icons=true&title_color=8b5cf6&icon_color=a78bfa&text_color=e2e8f0&bg_color=0a0a0f&hide_border=true&border_radius=10" height="192px" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jpachec0&stroke=8b5cf6&ring=8b5cf6&fire=a78bfa&currStreakLabel=a78bfa&sideNums=e2e8f0&currStreakNum=e2e8f0&sideLabels=e2e8f0&dates=94a3b8&background=0a0a0f&hide_border=true&border_radius=10" height="192px" alt="GitHub Streak" />
 </div>
 
@@ -110,7 +109,7 @@
   <a href="https://www.linkedin.com/in/jo%C3%A3o-pacheco-8a74572ba/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:[EMAIL_ADDRESS]" target="_blank">
+  <a href="mailto:jpachec0@proton.me" target="_blank">
     <img src="https://img.shields.io/badge/Email-12121a?style=for-the-badge&logo=gmail&logoColor=a78bfa" alt="Email" />
   </a>
 </div>
