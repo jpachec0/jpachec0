@@ -84,11 +84,11 @@
       </a>
     </td>
     <td width="33%" valign="top" style="padding: 15px; border: 1px solid rgba(139, 92, 246, 0.2); background-color: #12121a; border-radius: 10px;">
-      <h3 style="color: #e2e8f0; margin-bottom: 5px;">Kanban Flashnet</h3>
-      <p style="color: #94a3b8; font-size: 13px; min-height: 40px;">Ferramenta visual de organização e acompanhamento de tarefas (quadros Kanban).</p>
-      <img src="https://img.shields.io/badge/React-TypeScript-8B5CF6?style=flat-square" />
+      <h3 style="color: #e2e8f0; margin-bottom: 5px;">K0Sec</h3>
+      <p style="color: #94a3b8; font-size: 13px; min-height: 40px;">Uma comunidade de cibersegurança focada no aprendizado livre.</p>
+      <img src="https://img.shields.io/badge/Community-8A2BE2" />
       <br/><br/>
-      <a href="https://github.com/jpachec0/kanban-flashnet">
+      <a href="https://github.com/k0sec-br">
         <img src="https://img.shields.io/badge/Ver_Repositório-0a0a0f?style=for-the-badge&logo=github&logoColor=white&color=0a0a0f&labelColor=8B5CF6" />
       </a>
     </td>
